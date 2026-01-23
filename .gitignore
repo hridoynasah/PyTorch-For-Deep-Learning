@@ -116,9 +116,9 @@ Thumbs.db
 .env.local
 
 # Keep these file types (NOT ignored)
-!*.py
-!*.ipynb
-!*.pdf
-!*.md
-!.gitignore
-!README.md
+# !*.py
+# !*.ipynb
+# !*.pdf
+# !*.md
+# !.gitignore
+# !README.md
