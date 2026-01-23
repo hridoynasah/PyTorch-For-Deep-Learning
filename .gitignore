@@ -2,6 +2,7 @@
 helper_utils.py
 unittests_utils.py
 unittests.py
+practice.ipynb
 *.ipynb_checkpoints
 __pycache__/
 *.pyc
